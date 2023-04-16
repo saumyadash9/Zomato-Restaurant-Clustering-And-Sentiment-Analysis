@@ -1,5 +1,5 @@
 # Zomato-Restaurant-Clustering-And-Sentiment-Analysis
-![image](https://user-images.githubusercontent.com/95522639/232321277-17a8930a-9ee2-44c8-9d85-a652568afe53.png)
+![image](https://user-images.githubusercontent.com/95522639/232321339-054d97fe-b6e5-48f1-9983-6328e9b2faf2.png)
 
 
 This project aims to cluster Zomato restaurants into different segments using clustering algorithms such as K Means Clustering and Agglomerative Hierarchical Clustering. It also involves sentiment analysis to classify the sentiments of the reviewers based on their reviews and ratings using machine learning algorithms such as Random Forest, K-Nearest Neighbours, Logistic Regression, XGBoost, Multinomial Naive Bayes, and Light Gradient Boosting Machines.
